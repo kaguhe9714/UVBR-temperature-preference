@@ -17,7 +17,8 @@ color_mode  <- "bw"           # "bw" o "color"
 # =========================
 # DATOS
 # =========================
-datos <- UVB_Preference_KGH
+
+datos <- read.csv("data/UVB_Preference_KGH.csv")
 
 datos_exp3 <- datos %>%
   filter(Experimento %in% c("Exp_3A", "Exp_3B")) %>%
