@@ -14,7 +14,7 @@ orientation <- "horizontal"  # "horizontal" o "vertical"
 # =========================
 # DATOS
 # =========================
-datos <- UVB_Preference_KGH
+datos <- read.csv("data/UVB_Preference_KGH.csv")
 datos$UVB <- as.numeric(as.character(datos$UVB))
 
 datos_exp2 <- datos %>%
