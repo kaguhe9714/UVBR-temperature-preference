@@ -1,7 +1,9 @@
 # UVBR-temperature-preference
 Analyses of thermal preference and UVB exposure in tadpole amphibians
 
-This repository contains the data and R scripts used to analyze the effects of ultraviolet-B radiation (UVBR) on temperature preference in tadpoles of three Neotropical anuran species: *Engystomops pustulosus*, *Boana platanera*, and *Rhinella horribilis*.
+Autora: Katlaina Gutiérrez Hernández
+
+This repository contains the data and R scripts used to analyze the effects of ultraviolet-B radiation (UVBR) on temperature preference in tadpoles of three tropical anuran species: *Engystomops pustulosus*, *Boana platanera*, and *Rhinella horribilis*.
 
 ## 📁 Repository structure
 
@@ -32,8 +34,3 @@ This repository contains the data and R scripts used to analyze the effects of u
 
 The study evaluates how UVBR exposure influences thermal preference in tadpoles under controlled laboratory conditions, integrating multiple experimental treatments combining radiation levels and temperature.
 
-## 👩‍🔬 Author
-
-Katalina Gutiérrez  
-PhD student in Biological Sciences  
-University of Tolima
